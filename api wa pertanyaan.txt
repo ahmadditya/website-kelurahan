@@ -1,0 +1,6 @@
+Assalam Assalamu'alaikum , Perkenalkan Nama:(kamu) Dari:(...) Saya Ingin Menanyakan Sesuatu Dan Saya yakin Admin Punya jawabanya!
+pertanyaan Saya :....
+
+\
+\
+https://api.whatsapp.com/send/?phone=085156090273&text=Assalam%20Assalamu%27alaikum%20%2C%20Perkenalkan%20Nama%3A(kamu)%20Dari%3A(...)%20Saya%20Ingin%20Menanyakan%20Sesuatu%20Dan%20Saya%20yakin%20Admin%20Punya%20jawabanya!%0Apertanyaan%20Saya%20%3A....
